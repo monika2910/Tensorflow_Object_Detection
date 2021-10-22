@@ -1,5 +1,6 @@
 # Tensorflow Object Detection Walkthrough
-<p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. 
+<p>This set of Notebooks provides a  code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. It detect sign language (Hello,Thankyou,ThumpsUp, ThumpDown).
+  Captured training data and testing data through webcam with OpenCV. 
 <img src="https://github.com/monika2910/Tensorflow_Object_Detection/blob/main/downloadHello.png">
 
 ## Steps
